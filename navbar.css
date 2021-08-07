@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+*{
+	font-size: 25px;
+	font-family : Times New Roman, serif ;
+}
+.nav-link{
+	color: #6dc3e6;
+    transition: all 0.3s ease;
+}
+.navbar-brand{
+	color: #110eda;
+	letter-spacing: 0.5px;
+}
+h2{
+	color: #6dc3e6;
+	letter-spacing: 0.5px;
+	font-family: 'Montserrat', sans-serif;
+}
